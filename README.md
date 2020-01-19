@@ -1,0 +1,1 @@
+This repository contains my projects from the Net Ninja's Modern Javascript course on Udemy.
